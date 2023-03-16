@@ -1,0 +1,17 @@
+16-March-2023
+Main difference between ethereum protocol and bitcoin protocol
+Bitcoin have smart contracts but they are intentionaly turing incomplete
+Bitcoin developer view bitcoin as a store of value 
+Ethereum developer view ethereum as a store of value and have a utility of facilitate these decentralized aggreements 
+
+To replace the everyday agreements with the smart contracts we need Blockchain must interract with the real world data 
+Blockchain by themselves can't interact with the real world data
+This problem is known as a Oracle Problem
+
+Oracle are any device that deliver data to these decentralized blockchain or run external computation
+if we want our application to stay truly decentralized then we cannot work with the single oracle or single data provider or a single source thats running these external computation
+So we need decentralized oracle network similar to decentralized blockchain
+
+Our On Chain logic will be decentralized but you need your off chain data and computation be decentralized
+
+Combining on chain decentralized logic with the off chain decentralized data and decentralized computation give rise to something called hybrid smart contracts
